@@ -51,7 +51,6 @@
 		"qrcode-reader": "^1.0.4",
 		"qs": "^6.15.2",
 		"request": "^2.88.2",
-		"request-promise": "^4.2.7",
 		"searchitunes": "^2.6.0",
 		"sequelize": "^6.37.8",
 		"socket.io": "^4.8.3",
